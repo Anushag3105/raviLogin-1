@@ -10,3 +10,5 @@ dfshvbdfjvbfdjbvfjd
 hbvjhfbvjfgkbvjdfkbv fdjkbdnjv n
 fmvnfmvnfmnvmdfkn
 fjebrjvnrejnvejrfn
+jenkins poll scm check
+jenkins periodically build
